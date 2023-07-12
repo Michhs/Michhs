@@ -1,5 +1,5 @@
 - 🐣 Hi, I’m @Michhs,
-- 🧠 I’m interested in neuroscience, behaviour and ants 🐜,
+- 🧠 I’m interested in neuroscience, pathologies and ants 🐜,
 - 🌱 I’m currently learning programming in different languages to apply it in my research works.
 
 <!---
